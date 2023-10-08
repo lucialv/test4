@@ -8,6 +8,10 @@ Sai Line-Interactive: 0,8
 
 Sai Off-Line: 0,6
 
+W a AV **Multiplicar**
+
+AV a W **Dividir**
+
 ## Preguntas generales SAI
 
 ### Què significa SAI?
@@ -33,6 +37,10 @@ Sai Off-Line: 0,6
 - Totes les respostes són falses
 
 ### Quin tipus de SAI correspon a l'esquema següent?
+
+![Esquema SAI](/images/esquema4.jpg)
+
+- Off Line
 
 ![Esquema SAI](/images/esquema3.jpg)
 
@@ -67,3 +75,19 @@ Sai Off-Line: 0,6
 ### Quin paràmetre del SAI fa referència a la manera com es comunica amb el PC?
 
 - Interface
+
+# Respuestas Test 4 Teorico
+
+## Etiquetas Sai
+
+### Quin temps de recàrrega té el model 620 segons el seu manual
+
+- 2-5 horas
+
+## Ondas
+
+### Segons el següent dibuix, quina afectació ha patit la xarxa elèctrica?
+
+![Esquema SAI](/images/esquema12.jpg)
+
+Parasits
