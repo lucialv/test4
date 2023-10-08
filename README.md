@@ -1,4 +1,4 @@
-# Respuestas Test 4 Fonamental
+# Respuestas Test 4
 
 ## Calculos de potencia
 
@@ -25,6 +25,10 @@ AV a W **Dividir**
 ### Com podem saber la potència en W d'un SAI?
 
 - Multiplicant volts x ampers x factor de potència
+
+### En quins casos connectarem la nostra pantalla al SAI?
+
+- Normalment el connectarem a la línia elèctrica normal
 
 ## Tipus de SAI
 
@@ -76,8 +80,6 @@ AV a W **Dividir**
 
 - Interface
 
-# Respuestas Test 4 Teorico
-
 ## Etiquetas Sai
 
 ### Quin temps de recàrrega té el model 620 segons el seu manual
@@ -90,4 +92,28 @@ AV a W **Dividir**
 
 ![Esquema SAI](/images/esquema12.jpg)
 
-Parasits
+- Parasits
+
+### Marca totes les característiques físiques que presenta la bateria del model 620 segons el seu manual
+
+![Esquema SAI](/images/etiqueta1.jpg)
+
+- Segellada de plom-àcid
+
+### Marca totes les característiques físiques que presenta la bateria del model GXT3-3000RT208 segons el seu manual
+
+![Esquema SAI](/images/etiqueta2.jpg)
+
+- 12V 9Ah x 6
+
+### Calcula quin factor de potència té el següent SAI a partir del seu manual
+
+![Esquema SAI](/images/etiqueta3.jpg)
+
+- 0.75
+
+### Quin temps de transferència del relé té el model 620 segons el seu manual
+
+![Esquema SAI](/images/etiqueta4.jpg)
+
+- 4 milisegundos
