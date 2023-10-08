@@ -8,9 +8,9 @@ Sai Line-Interactive: 0,8
 
 Sai Off-Line: 0,6
 
-W a AV **Multiplicar**
+W a AV **Dividir**
 
-AV a W **Dividir**
+AV a W **Multiplicar**
 
 ## Preguntas generales SAI
 
@@ -18,9 +18,18 @@ AV a W **Dividir**
 
 - Sistema d'Alimentació Ininterrompuda
 
+### Què és un SAI?
+
+- És un dispositiu que protegeix els equips que té connectats davant anomalies elèctriques
+
 ### Per a què aprofita un SAI?
 
 - Per evitar que el PC s'apagui sobtadament davant d'anomalies elèctriques
+
+### On van connectats els cables del SAI que no són de corrent?
+
+- Al router d'Internet, si existeix el port
+- Al PC que protegeix
 
 ### Com podem saber la potència en W d'un SAI?
 
@@ -117,3 +126,9 @@ AV a W **Dividir**
 ![Esquema SAI](/images/etiqueta4.jpg)
 
 - 4 milisegundos
+
+### Segons el següent manual, en quines paraules descriu la forma de la ona generada a la sortida del següent SAI?
+
+![Esquema SAI](/images/man7.jpg)
+
+- Simulada
