@@ -159,3 +159,10 @@ Ejemplo: 210/350 = 0,6
 ![Esquema SAI](/images/man6.png)
 
 - No ho indica
+
+### Marca totes les característiques físiques que presenta la bateria del següent SAI segons el seu manual
+
+![Esquema SAI](/images/man9.png)
+
+- Lliure de manteniment
+- Segellada de plom-àcid
