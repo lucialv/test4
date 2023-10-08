@@ -12,6 +12,12 @@ W a AV **Dividir**
 
 AV a W **Multiplicar**
 
+## Factor de potencia
+
+Dividir W entre VA
+
+Ejemplo: 210/350 = 0,6
+
 ## Preguntas generales SAI
 
 ### Què significa SAI?
@@ -25,6 +31,11 @@ AV a W **Multiplicar**
 ### Per a què aprofita un SAI?
 
 - Per evitar que el PC s'apagui sobtadament davant d'anomalies elèctriques
+
+### Quins dels següents dispositius connectarem al nostre SAI?
+
+- Connectarem sempre el nostre PC
+- Connectarem la pantalla al SAI únicament si no tenim el software de gestió instal·lat
 
 ### On van connectats els cables del SAI que no són de corrent?
 
@@ -106,6 +117,12 @@ AV a W **Multiplicar**
 ![Esquema SAI](/images/esquema12.jpg)
 
 - Parasits
+
+![Esquema SAI](/images/1-normal.png)
+
+- Ona Normal
+
+## Etiquetas
 
 ### Marca totes les característiques físiques que presenta la bateria del model 620 segons el seu manual
 
