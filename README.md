@@ -71,6 +71,10 @@ AV a W **Multiplicar**
 
 - On Line
 
+![Esquema SAI](/images/esquema22.gif)
+
+- Interactiu
+
 ## Paràmetres del SAI
 
 ### Quin paràmetre del SAI fa referència al temps que triga en descarregar les bateries?
@@ -132,3 +136,9 @@ AV a W **Multiplicar**
 ![Esquema SAI](/images/man7.jpg)
 
 - Simulada
+
+### Segons el següent manual, quina de les següents característiques forma part de l'interface del model BE450?
+
+![Esquema SAI](/images/man6.jpg)
+
+- No ho indica
