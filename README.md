@@ -133,12 +133,12 @@ AV a W **Multiplicar**
 
 ### Segons el següent manual, en quines paraules descriu la forma de la ona generada a la sortida del següent SAI?
 
-![Esquema SAI](/images/man7.jpg)
+![Esquema SAI](/images/man7.png)
 
 - Simulada
 
 ### Segons el següent manual, quina de les següents característiques forma part de l'interface del model BE450?
 
-![Esquema SAI](/images/man6.jpg)
+![Esquema SAI](/images/man6.png)
 
 - No ho indica
